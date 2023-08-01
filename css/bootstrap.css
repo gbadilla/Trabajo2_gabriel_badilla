@@ -69,12 +69,12 @@ mark {
   background: #ff0;
 }
 small {
-  font-size: 80%;
+  font-size: 75%;
 }
 sub,
 sup {
   position: relative;
-  font-size: 75%;
+  font-size: 70%;
   line-height: 0;
   vertical-align: baseline;
 }
@@ -167,7 +167,7 @@ input[type="search"]::-webkit-search-decoration {
 }
 fieldset {
   padding: .35em .625em .75em;
-  margin: 0 2px;
+  margin: 0 1.5px;
   border: 1px solid #c0c0c0;
 }
 legend {
@@ -227,7 +227,7 @@ th {
     page-break-inside: avoid;
   }
   img {
-    max-width: 100% !important;
+    max-width: 95% !important;
   }
   p,
   h2,
